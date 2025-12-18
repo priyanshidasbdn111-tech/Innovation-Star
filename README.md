@@ -1,11 +1,11 @@
-🌍 CityMate – Smart Travel Guide Website
+🌍 Incredible India – Smart Travel Guide Website
 Problem Statement (PS5)
 
 A traveller arrives in a new city with no local contacts and limited time. Finding places, food, transport, and hidden spots becomes overwhelming.
 
 Solution
 
-CityMate is a smart travel guide website that helps users plan trips, explore destinations, and discover local experiences effortlessly.
+Incredible India  is a smart travel guide website that helps users plan trips, explore destinations, and discover local experiences effortlessly.
 It acts as a digital local friend for travelers who are new to a city and short on time.
 
 🚀 Features
